@@ -1,0 +1,22 @@
+h1 {
+    color: yellow;
+    background:black;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.about {
+    background-color: gray;
+    font-size: larger;   
+}
+
+ul {
+    background-color:burlywood;
+}

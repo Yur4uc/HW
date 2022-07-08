@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+    color: white;
+}
+
+.head {
+    background: cornflowerblue;
+    min-height: 200px;
+    margin: 10px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.center {
+    display: flex;
+    font-size: 30px;
+}
+
+.centerbox {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background:#0a62d4;
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    
+}
+
+.contact {
+    background: cornflowerblue;
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    min-height: 350px;
+    margin: 10px;
+   
+}
+
+.contactbox {
+    font-size: 50px;
+}
