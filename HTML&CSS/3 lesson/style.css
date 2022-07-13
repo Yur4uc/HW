@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo__box {
+    width: 180px;
+    height: 50px;
+    margin: 150px;
+    border-radius: 15px;
+    background: rgb(4, 4, 83);
+}
+
+.icon {
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 50px;
+    padding: 170px;
+}
+
+.icon img {
+    display: inline-block;
+    line-height: 100%;
+    padding: 10px;
+}
+
+
+.section {
+    width: 100%;
+    height: 500px;
+    background: rgb(4, 4, 83);
+    position: relative;
+}
+
+.target {
+    width: 100%;
+    height: 100px;
+
+    position: absolute;
+    bottom: -50px;
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background: rgb(22, 170, 224);
+    border-radius: 15px;
+}
+
+.footer {
+    height: 100px;
+    background: rgb(255, 255, 255);
+}
+
+
