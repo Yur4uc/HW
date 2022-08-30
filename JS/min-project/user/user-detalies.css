@@ -1,0 +1,30 @@
+.detalies{
+    background: cadetblue;
+}
+.btnDetalies:hover{
+    background: aqua;
+}
+.btnPosts:hover{
+    background: aqua;
+}
+.divComent{
+    background: cadetblue;
+}
+.btnn{
+    display: flex;
+    flex-direction: column;
+}
+.all{
+    flex-wrap: wrap;
+    background: cadetblue;
+    display: flex;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 230px;
+    width: 1110px ;
+}
+.clases{
+    border: 1px solid black;
+    width: 220px;
+    height: 80px;
+}

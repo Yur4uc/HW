@@ -1,0 +1,13 @@
+
+.divClass{
+    background: cadetblue;
+}
+.divComents{
+    background: #a4a2a2;
+    display: flex;
+    margin-top: 10px;
+
+}
+.comments{
+    border: 1px solid black;
+}
